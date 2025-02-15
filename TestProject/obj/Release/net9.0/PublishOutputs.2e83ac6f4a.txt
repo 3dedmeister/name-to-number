@@ -1,0 +1,5 @@
+C:\Users\tz\vscode projects\CsharpProjects\TestProject\bin\Release\net9.0\publish\TestProject.exe
+C:\Users\tz\vscode projects\CsharpProjects\TestProject\bin\Release\net9.0\publish\TestProject.dll
+C:\Users\tz\vscode projects\CsharpProjects\TestProject\bin\Release\net9.0\publish\TestProject.deps.json
+C:\Users\tz\vscode projects\CsharpProjects\TestProject\bin\Release\net9.0\publish\TestProject.runtimeconfig.json
+C:\Users\tz\vscode projects\CsharpProjects\TestProject\bin\Release\net9.0\publish\TestProject.pdb
